@@ -1,7 +1,7 @@
 index
 
 
-Group 1 : [to be evaluated](../double_blind_eval/eval_g1)
+Group 1 : [to be evaluated](double_blind_eval/eval_g1)
 
 Group 2
 
