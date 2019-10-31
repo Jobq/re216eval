@@ -36,7 +36,7 @@ A l'issue de la soumission des travaux, chaque binôme évaluera un autre groupe
 
 Pour rendre l'évaluation que vous avez réalisée à l'équipe enseignante, vous devrez ajouter le document `feuille_eval.csv` à la racine de votre repertoire git avant de faire un dernier commit et un dernier push de votre travail sur le repository github.
 
-**¡¡¡ Il est interdit de quitter la salle sans avoir soumis son évaluation sur le github !!!**
+**¡¡¡ Il faut impérativement soumettre son évaluation sur le repo github avant de pouvoir quitter la salle !!!**
 
 
 
