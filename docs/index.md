@@ -38,6 +38,14 @@ Pour rendre l'évaluation que vous avez réalisée à l'équipe enseignante, vou
 
 **¡¡¡ Il faut impérativement soumettre son évaluation sur le repo github avant de pouvoir quitter la salle !!!**
 
+## Retour sur évaluation 
+
+Chaque binome aura acces à l'évaluation de son travail par les autres au moyen d'un mail envoyé aux membres du binome. Si vous constater une erreur dans l'évaluation réalisée, merci de bien vouloir tenir l'équipe enseignante informée. Attention, à ne pas nous solicité pour des erreurs minime qui n'aurait pas d'impact sur la note finale. 
+
+Pour rappel : 
+- Remise en cause (par les enseignants ou le groupe de dev) à raison d'une mauvaise évaluation faite volontairement ou non : -3 points pour l'équipe évaluante;
+- Remise en cause (par le groupe de dev malicieusement ou non) à tort d'une bonne évaluation : -3 points pour l'équipe de dev.
+
 
 
 [To be done by group 1](double_blind_eval/eval_g1.tar.gz)
