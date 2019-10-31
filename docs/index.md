@@ -12,16 +12,28 @@ Chaque groupe évaluera le code d'un autre groupe en suivant la fiche d'évaluat
 
 Le non respect de la procedure de soumission du travail (arborescence et nommage des fichiers, soumission avant l'heure précisée,, etc.) entrainera une pénalité sur la note final du binôme. 
 
+
+### Format et arborescence des fichiers
 Afin de rendre votre travail, vous devrez créer un dossier `jalon_final`et un dosier `jalon_surprise` à la racine de votre repertoire git. Vous devrez déposer dans chacun de ces dossiers les fichiers executables contenant le programme du client qui sera nommé `client` et le programme du serveur qui sera nommé `server`. 
 
-- Le dossier `jalon_final`comprendra un fichier `readme.txt` qui indiquera le dernier jalon réalisé dans son intégralité, ainsi que les requierements faits dans le jalon en cours (s'il y en a un)
+- Le dossier `jalon_final`comprendra un fichier `readme.txt` qui indiquera le dernier jalon réalisé dans son intégralité (jalonX avec X dans {0,1,2,3,4}), ainsi que les requirements faits dans le jalon en cours (s'il y en a un).
 
-- Le dossier  `jalon_surprise` comprendra un fichier `readme.txt`
-
-
+- Le dossier `jalon_surprise` comprendra un fichier `readme.txt` donnant les détails des fonctionnalités ajoutées dans le code du client et du server,  ainsi que la façon de les tester.
 
 
-Functional Testing 
+### Soumission du code
+
+A l'heure indiqué en début de séance, vous allez devoir faire un ultime commit/push de votre code, suivi d'une ultime release nommée `rendu_final` sur votre répository privé. C'est ce code là qui sera évalué.
+
+### Evaluation en double aveugle
+
+A l'issue de la soumission des travaux, chaque binôme évaluera un autre groupe en remplissant la [feuille d'évaluation](feuille_eval.csv). L'assignation des travaux à évaluer sera disponible sur cette page web en temps voulu. 
+
+### Soumission de l'évaluation
+
+Pour rendre l'évaluation que vous avez réalisée à l'équipe enseignante, vous devrez ajouter le document `feuille_eval.csv` à la racine de votre repertoire git avant de faire un dernier commit et un dernier push de votre travail sur le repository github.
+
+** ¡¡¡ Il est interdit de quitter la salle sans avoir soumis son évaluation sur le github !!!
 
 
 [To be done by group 1](double_blind_eval/eval_g1.tar.gz)
