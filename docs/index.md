@@ -8,7 +8,7 @@ Votre projet sera testé et évalué par vos pairs (les T2) pendant la dernière
 
 Chaque groupe évaluera le code d'un autre groupe en suivant la fiche d'évaluation qui sera à rendre à l'équipe enseignante à la fin de la séance selon les modalités disponibles sur cette page. 
 
-## Procédure de soumission du travail. 
+## Procédure de soumission du travail
 
 Le non respect de la procedure de soumission du travail (arborescence et nommage des fichiers, soumission avant l'heure précisée,, etc.) entrainera une pénalité sur la note final du binôme. 
 
@@ -25,7 +25,10 @@ Afin de rendre votre travail, vous devrez créer un dossier `jalon_final`et un d
 
 A l'heure indiqué en début de séance, vous allez devoir faire un ultime commit/push de votre code, suivi d'une ultime release nommée `rendu_final` sur votre répository privé. C'est ce code là qui sera évalué.
 
-### Evaluation en double aveugle
+## Evaluation en double aveugle
+
+
+### Évaluation 
 
 A l'issue de la soumission des travaux, chaque binôme évaluera un autre groupe en remplissant la [feuille d'évaluation](feuille_eval.csv). L'assignation des travaux à évaluer sera disponible sur cette page web en temps voulu. 
 
