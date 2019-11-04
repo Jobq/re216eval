@@ -37,6 +37,7 @@ Pour rappel :
 - Remise en cause (par les enseignants ou le groupe de dev) à raison d'une mauvaise évaluation faite volontairement ou non : -3 points pour l'équipe évaluante;
 - Remise en cause (par le groupe de dev malicieusement ou non) à tort d'une bonne évaluation : -3 points pour l'équipe de dev.
 
+## Assignation
 
 
 [To be done by group 1](double_blind_eval/eval_g1.tar.gz)
