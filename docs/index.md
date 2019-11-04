@@ -20,6 +20,8 @@ Afin de rendre votre travail, vous devrez créer un dossier `jalon_final`et un d
 
 N'oubliez pas d'ajouter ces fichiers à la liste des fichiers suivis par git avec la commande `git add ./*` lorsque vous êtes à la racine du repository.
 
+N.B.: Dans l'éventualité ou vous auriez un jalon surprise et n'auriez pas anticipé le séparation de votre code en "jalon final" et "jalon surprise", vous devrez alors soumettre un seul et même rendu dans le dossier `jalon_surprise`.
+
 ### Soumission du code
 
 A l'heure indiquée en début de séance, vous allez devoir faire un ultime commit/push de votre code, suivi d'une ultime release nommée `rendu_final` sur votre répository privé. C'est ce code là qui sera évalué.
