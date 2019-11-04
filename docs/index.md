@@ -38,6 +38,33 @@ Pour rappel :
 - Remise en cause (par les enseignants ou le groupe de dev) à raison d'une mauvaise évaluation faite volontairement ou non : -3 points pour l'équipe évaluante;
 - Remise en cause (par le groupe de dev malicieusement ou non) à tort d'une bonne évaluation : -3 points pour l'équipe de dev.
 
+
+
+## Grille de notation 
+
+Voici le barème indicatif pour la note de réalisation des requirements :
+
+| Note | Réalisation non buggée des requirements du(es) jalon(s) |
+| ------ | ------ |
+| \[0-5\[ | \[0 - Jalon 1\[ |
+| 5 | Jalons 1 |
+| \]5-8\[ | Jalon 1 + ]0 - Jalon 2\[ | 
+| 8 | Jalon 1 + 2 |
+| \]8-14\[  | Jalon 1 + 2 + \]0 - Jalon 3\[ |
+| 14  | Jalon 1 + 2 + 3 |
+| \]14-18\[ | Jalon 1 + 2 + 3 + \]0 - Jalon 4\[ |
+| 18 | Jalon 1 + 2 + 3 + 4 |
+| \[18-20\] | Jalon 1 + 2 + 3 + 4 + _Surprise_ |
+
+### Points bonus
+- Tout fonctionne en IPv6 et IPV4 : +0.25 point
+
+### Point malus
+Des points malus peuvent être appliqués dans les cas suivants:
+- Non respect du rendu des jalons aux deadlines indiquées : -2 points;
+- Mémoire non libérée : -2 points;
+- File descriptors des sockets et des fichiers non fermés : -2 points;
+
 ## Assignation
 
 
