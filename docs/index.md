@@ -22,7 +22,7 @@ N'oubliez pas d'ajouter ces fichiers à la liste des fichiers suivis par git ave
 
 ### Soumission du code
 
-A l'heure indiqué en début de séance, vous allez devoir faire un ultime commit/push de votre code, suivi d'une ultime release nommée `rendu_final` sur votre répository privé. C'est ce code là qui sera évalué.
+A l'heure indiquée en début de séance, vous allez devoir faire un ultime commit/push de votre code, suivi d'une ultime release nommée `rendu_final` sur votre répository privé. C'est ce code là qui sera évalué.
 
 ## Evaluation en double aveugle
 
