@@ -4,17 +4,17 @@ Voici la procédure à suivre pour la réalisation de l'évaluation par les pair
 
 ## Evaluation par les pairs
 
-Votre projet sera testé et évalué par vos pairs (les T2) pendant la dernière heure de la 4ième et derniere séance de projet en suivant la politique d'évaluation en double aveugle : les identités des auteurs du code ainsi que des évaluateurs ne sont pas révélées. Chaque projet sera anonymisé et aléatoirement assigné pour évaluation à un autre groupe de projet anonyme lui aussi.
+Votre projet sera testé et évalué par vos pairs (les T2) pendant la dernière heure de la 4ième et derniere séance de projet en suivant la politique d'évaluation en double aveugle : les identités des auteurs du code ainsi que des évaluateurs ne sont pas révélées. Chaque projet sera anonyme et aléatoirement assigné pour évaluation à un autre groupe de projet anonyme lui aussi.
 
 ## Procédure de soumission du travail
 
-Le non respect de la procedure de soumission du travail (arborescence et nommage des fichiers, soumission avant l'heure précisée,, etc.) entrainera une pénalité sur la note final du binôme. 
+Le non respect de la procédure de soumission du travail (arborescence et nommage des fichiers, soumission avant l'heure précisée, etc.) entrainera une pénalité sur la note final du binôme. 
 
 
 ### Format et arborescence des fichiers
-Afin de rendre votre travail, vous devrez créer un dossier `jalon_final`et un dosier `jalon_surprise` à la racine de votre repertoire git. Vous devrez déposer dans chacun de ces dossiers **les fichiers executables et compilés sur les machines de l'enseirb** contenant le programme du client qui sera nommé `client` et le programme du serveur qui sera nommé `server`. 
+Afin de rendre votre travail, vous devrez créer un dossier `jalon_final`et un dossier `jalon_surprise` à la racine de votre répertoire git. Vous devrez déposer dans chacun de ces dossiers **les fichiers executables et compilés sur les machines de l'enseirb** contenant le programme du client qui sera nommé `client` et le programme du serveur qui sera nommé `server`. 
 
-- Le dossier `jalon_final`comprendra un fichier `readme.txt` qui indiquera le dernier jalon réalisé dans son intégralité (jalonX avec X dans {0,1,2,3,4}), ainsi que les requirements faits dans le jalon en cours (s'il y en a un).
+- Le dossier `jalon_final`comprendra un fichier `readme.txt` qui indiquera  le dernier jalon réalisé dans son intégralité (jalonX avec X dans {0,1,2,3,4}), ainsi que les requirements faits dans le jalon en cours (s'il y en a un).
 
 - Le dossier `jalon_surprise` comprendra un fichier `readme.txt` donnant les détails des fonctionnalités ajoutées dans le code du client et du server,  ainsi que la façon de les tester.
 
@@ -32,7 +32,7 @@ Les feuilles d'évaluation seront ensuite récupérées par l'équipe enseignant
 
 ## Retour sur évaluation 
 
-Chaque binome aura acces à l'évaluation de son travail par les autres au moyen d'un mail envoyé aux membres du binome. Si vous constater une erreur dans l'évaluation réalisée, merci de bien vouloir tenir l'équipe enseignante informée. Attention, à ne pas nous soliciter pour des erreurs minimes qui n'auraient pas (ou ridiculement peu) d'impact sur la note finale. 
+Chaque binôme aura accès à l'évaluation de son travail par les autres au moyen d'un mail envoyé aux membres du binôme. Si vous constater une erreur dans l'évaluation réalisée, merci de bien vouloir tenir l'équipe enseignante informée. Attention, à ne pas nous solliciter pour des erreurs minimes qui n'auraient pas (ou ridiculement peu) d'impact sur la note finale. 
 
 Pour rappel : 
 - Remise en cause (par les enseignants ou le groupe de dev) à raison d'une mauvaise évaluation faite volontairement ou non : -3 points pour l'équipe évaluante;
