@@ -69,7 +69,7 @@ Des points malus peuvent être appliqués dans les cas suivants:
 
 ## Assignation
 
-
+<!-- 
 [To be done by group 1](double_blind_eval/eval_g1.tar.gz)
 
 [To be done by group 2](double_blind_eval/eval_g2.tar.gz)
@@ -128,4 +128,4 @@ Des points malus peuvent être appliqués dans les cas suivants:
 
 [To be done by group 29](double_blind_eval/eval_g29.tar.gz)
 
-[To be done by group 30](double_blind_eval/eval_g30.tar.gz)
+[To be done by group 30](double_blind_eval/eval_g30.tar.gz) -->
