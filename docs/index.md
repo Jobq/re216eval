@@ -30,13 +30,9 @@ A l'heure indiqué en début de séance, vous allez devoir faire un ultime commi
 
 ### Évaluation 
 
-A l'issue de la soumission des travaux, chaque binôme évaluera un autre groupe en remplissant la [feuille d'évaluation](feuille_eval.csv). L'assignation des travaux à évaluer sera disponible sur cette page web en temps voulu. 
+A l'issue de la soumission des travaux, chaque binôme évaluera un autre groupe en remplissant la [feuille d'évaluation](feuille_eval.pdf). L'assignation des travaux à évaluer sera disponible sur cette page web en temps voulu. 
 
-### Soumission de l'évaluation
-
-Pour rendre l'évaluation que vous avez réalisée à l'équipe enseignante, vous devrez ajouter le document `feuille_eval.csv` à la racine de votre repertoire git avant de faire un dernier commit et un dernier push de votre travail sur le repository github.
-
-**¡¡¡ Il faut impérativement soumettre son évaluation sur le repo github avant de pouvoir quitter la salle !!!**
+Les feuilles d'évaluation seront ensuite récupérées par l'équipe enseignante à la fin de la séance. 
 
 ## Retour sur évaluation 
 
