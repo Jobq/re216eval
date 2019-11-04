@@ -18,7 +18,7 @@ Afin de rendre votre travail, vous devrez créer un dossier `jalon_final`et un d
 
 - Le dossier `jalon_surprise` comprendra un fichier `readme.txt` donnant les détails des fonctionnalités ajoutées dans le code du client et du server,  ainsi que la façon de les tester.
 
-N'oubliez pas d'ajouter ces dossiers et fichiers à la liste des fichiés suivis par git avec la commande `git add ./*` lorsque vous êtes à la racine du repository.
+N'oubliez pas d'ajouter ces fichiers à la liste des fichiers suivis par git avec la commande `git add ./*` lorsque vous êtes à la racine du repository.
 
 ### Soumission du code
 
