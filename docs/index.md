@@ -6,8 +6,6 @@ Voici la procédure à suivre pour la réalisation de l'évaluation par les pair
 
 Votre projet sera testé et évalué par vos pairs (les T2) pendant la dernière heure de la 4ième et derniere séance de projet en suivant la politique d'évaluation en double aveugle : les identités des auteurs du code ainsi que des évaluateurs ne sont pas révélées. Chaque projet sera anonymisé et aléatoirement assigné pour évaluation à un autre groupe de projet anonyme lui aussi.
 
-Chaque groupe évaluera le code d'un autre groupe en suivant la fiche d'évaluation qui sera à rendre à l'équipe enseignante à la fin de la séance selon les modalités disponibles sur cette page. 
-
 ## Procédure de soumission du travail
 
 Le non respect de la procedure de soumission du travail (arborescence et nommage des fichiers, soumission avant l'heure précisée,, etc.) entrainera une pénalité sur la note final du binôme. 
