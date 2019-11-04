@@ -29,7 +29,7 @@ A l'heure indiqué en début de séance, vous allez devoir faire un ultime commi
 
 
 ### Évaluation 
-s
+
 A l'issue de la soumission des travaux, chaque binôme évaluera un autre groupe en remplissant la [feuille d'évaluation](feuille_eval.pdf). L'assignation des travaux à évaluer sera disponible sur cette page web en temps voulu. 
 
 Les feuilles d'évaluation seront ensuite récupérées par l'équipe enseignante à la fin de la séance. 
