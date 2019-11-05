@@ -14,6 +14,8 @@ Le non respect de la procédure de soumission du travail (arborescence et nommag
 ### Format et arborescence des fichiers
 Afin de rendre votre travail, vous devrez créer un dossier `jalon_final`et un dossier `jalon_surprise` à la racine de votre répertoire git. Vous devrez déposer dans chacun de ces dossiers **les fichiers executables et compilés sur les machines de l'enseirb** contenant le programme du client qui sera nommé `client` et le programme du serveur qui sera nommé `server`. 
 
+Chaque dossier contiendra un fichier csv ou pdf détaillant la répartition et la réalisation des taches entre les membres du binome au sein du projet. 
+
 - Le dossier `jalon_final`comprendra un fichier `readme.txt` qui indiquera  le dernier jalon réalisé dans son intégralité (jalonX avec X dans {0,1,2,3,4}), ainsi que les requirements faits dans le jalon en cours (s'il y en a un).
 
 - Le dossier `jalon_surprise` comprendra un fichier `readme.txt` donnant les détails des fonctionnalités ajoutées dans le code du client et du server,  ainsi que la façon de les tester.
@@ -21,6 +23,8 @@ Afin de rendre votre travail, vous devrez créer un dossier `jalon_final`et un d
 N'oubliez pas d'ajouter ces fichiers à la liste des fichiers suivis par git avec la commande `git add ./*` lorsque vous êtes à la racine du repository.
 
 N.B.: Dans l'éventualité ou vous auriez un jalon surprise et n'auriez pas anticipé le séparation de votre code en "jalon final" et "jalon surprise", vous devrez alors soumettre un seul et même rendu dans le dossier `jalon_surprise` en précisant le readme du dossier `jalon_final` que le code à éaluer se trouve dans `jalon_surprise`.
+
+## 
 
 ### Soumission du code
 
