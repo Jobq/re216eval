@@ -24,7 +24,6 @@ N'oubliez pas d'ajouter ces fichiers à la liste des fichiers suivis par git ave
 
 N.B.: Dans l'éventualité ou vous auriez un jalon surprise et n'auriez pas anticipé le séparation de votre code en "jalon final" et "jalon surprise", vous devrez alors soumettre un seul et même rendu dans le dossier `jalon_surprise` en précisant le readme du dossier `jalon_final` que le code à éaluer se trouve dans `jalon_surprise`.
 
-## 
 
 ### Soumission du code
 
